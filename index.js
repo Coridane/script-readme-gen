@@ -33,34 +33,31 @@ const questions = [
         type: "input",
         name: "description.technologies",
         message: "What technologies were used?",
-        // suffix: " (Start by typing: The technologies used in the development or operation of this application include) ",
-        default: "The technologies used in the development or operation of this application include Node.js as the runtime environment and the Inquirer module to produce the question and response functionality."
+        suffix: " (Start by typing: The technologies used in the development or operation of this application include) ",
+        
     },
     {
         type: "input",
         name: "description.challenges",
         message: "What were the challenges (if any come to mind)?",
-        // suffix: " (Start by typing: The challenges of developing this application include) ",
-        default: "The challenges of developing this application include understanding the use of promises and properly displaying the badges."
+        suffix: " (Start by typing: The challenges of developing this application include) ",        
     },
     {
         type: "input",
         name: "description.future",
         message: "What are future changes (if any are slated yet)?",
-        // suffix: " (Start by typing: Future development of this application will introduce) ",
-        default: "Future development of this application will introduce flashier prompts (typerwriter-effect module). It will look at breaking the steps on a single question out to separate lines, and figuring out how to do starter text instead of the current recommended text which the user has to re-type. The Inquirer module's prefix, suffix, and default functions do not provide this)."
+        suffix: " (Start by typing: Future development of this application will introduce) ",
+        
     },
     {
         type: "input",
         name: "installation",
-        message: "What steps are required to install this application?",
-        default: "1. Download and install the recommended version of Node. 2. Install the Inquirer module."
+        message: "What steps are required to install this application?",        
     },
     {
         type: "input",
         name: "usage",
-        message: "What steps are required to use this application?",
-        default: "1. Execute Node (node index). 2. Answer the questions. 3. Open the README file. Marvel at your masterpiece."
+        message: "What steps are required to use this application?",        
     },
     {
         type: "input",
@@ -71,8 +68,7 @@ const questions = [
     {
         type: "input",
         name: "test",
-        message: "What steps were taken to test this application?",
-        default: "Testing involved running through without answering all of the questions, then answering all of the questions, and choosing different licenses to test all of the badges."
+        message: "What steps were taken to test this application?",        
     },
     {
         type: "list",

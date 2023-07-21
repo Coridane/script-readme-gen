@@ -20,6 +20,8 @@
 
   * [Usage](#usage)
 
+  * [Screenshots](#screenshots)
+
   * [License](#license)
 
   * [Contributors](#contributors)
@@ -35,6 +37,12 @@
   ## Usage
 
   1. Execute Node (node index). 2. Answer the questions. 3. Open the README file. Marvel at your masterpiece.
+
+  ## Screenshots
+
+  ![README File Generator Mock 1](./assets/script-readme-generator-mock1.png)
+
+  ![README File Generator Mock 2](./assets/script-readme-generator-mock2.png)
 
   ## License
 

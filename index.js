@@ -62,8 +62,7 @@ const questions = [
     {
         type: "input",
         name: "contributors",
-        message: "Who contributed to this (excluding the author)?",
-        default: "Research was mostly through articles on GeeksforGeeks which helped a lot with this project."
+        message: "Who contributed to this (excluding the author)?",        
     },
     {
         type: "input",

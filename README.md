@@ -12,7 +12,7 @@
   
   The challenges of developing this application include understanding the use of promises and properly displaying the badges.
     
-  Future development of this application will introduce flashier prompts (typerwriter-effect module). It will look at breaking the steps on a single question out to separate lines, and figuring out how to do starter text instead of the current recommended text which the user has to re-type. The Inquirer module's prefix, suffix, and default functions do not provide this).
+  Future development of this application will introduce flashier prompts (typerwriter-effect module). It will also look at breaking the steps on a single question out to separate lines. Finally, it will look at havign starter text instead of the current recommended text which the user has to re-type. The Inquirer module's prefix, suffix, and default functions do not provide this.
 
   ## Table of Contents
 

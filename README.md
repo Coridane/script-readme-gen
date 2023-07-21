@@ -22,6 +22,8 @@
 
   * [Screenshots](#screenshots)
 
+  * [Video](#video)
+
   * [License](#license)
 
   * [Contributors](#contributors)
@@ -43,6 +45,12 @@
   ![README File Generator Mock 1](./assets/script-readme-generator-mock1.png)
 
   ![README File Generator Mock 2](./assets/script-readme-generator-mock2.png)
+
+  ## Video
+
+  This video demonstrates the operation and output of the README File Generator. There are some examples of responses being typed, but most of them were pre-entered to speed up the video.
+
+  https://drive.google.com/file/d/1hKo5JyTWlsW9IwoqKW5yb8aLqGLM11ll/view?usp=sharing
 
   ## License
 

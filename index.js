@@ -93,7 +93,7 @@ const questions = [
 // file called README.md and displays a success message.
 const writeToFile = data => {
     return new Promise((resolve, reject) => {
-        fs.writeFile("./README.md", data, err => {
+        fs.writeFile("./output/README.md", data, err => {
             if (err) {
                 reject (err);
                 return;
